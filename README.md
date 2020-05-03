@@ -15,6 +15,6 @@
 <p>node Nombre del Programa que quieres ejecutar.js  </p>
 <p>Ejemplo: node variables.js </p>
 <br>
-<h4>Se que ya de seguro lo sabes, sólo te recuerdo que para ejecutar cada programa, desde estar en la carpeta que los contiene </h4>
+<h4>Debes tener presente que para poder ejecutar cada programa, debes estar en la carpeta que los contiene </h4>
 <br>
 <h5>Te deseo los mejores de los éxitos, espero te resulte de utilidad...</h5>
