@@ -4,7 +4,7 @@
 <br>
 <h2>Ejemplos de estructuras de control del Lenguaje de programación JavaScrpit, para ejecutarlo todo bajo NodeJs.</h2>
 
-<h2>Si deseas ejecutar cada uno de estos programas desde NodeJs, debes instarlo NODEJS en tu equipo:</h2>
+<h2>Si deseas ejecutar cada uno de estos programas desde NodeJs, debes instarlo en tu equipo:</h2>
 <br>
 <p>Ingresar al sitio oficial de NodeJs: https://nodejs.org/en   (descargar la versión LTS (Soporte para Largo Tiempo) </p>
 <p>Leugo de descagar NodeJs e instalarlo en tu equipo, debes comprobar que se instaló correctamente, para ello puedes ejecutar:  </p>
